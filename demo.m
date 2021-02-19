@@ -1,5 +1,5 @@
 load imagenet
-I=imread("..\MNIST\images\454.png");
+I=imread("images\454.png");
 
 %(Optional: Noise example)
 %I3 = insertShape(I,'line',[23 25 25 25],'LineWidth',10); % for two
